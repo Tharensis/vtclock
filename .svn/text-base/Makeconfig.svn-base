@@ -1,0 +1,25 @@
+#! /bin/sh
+
+echo Running aclocal
+aclocal
+if [[ $? != 0 ]]
+then
+	exit
+fi
+
+echo Running autoconf
+autoconf
+if [[ $? != 0 ]]
+then
+	exit
+fi
+
+echo Running automake
+automake --add-missing
+if [[ $? != 0 ]]
+then
+	exit
+fi
+
+./configure
+

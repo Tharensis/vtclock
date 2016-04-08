@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2007-04-02T02:24:17.159764Z"
+   url="http://localhost/svn/vtclock/trunk"
+   last-author="Jason"
+   kind="dir"
+   uuid="211edd92-4098-4edf-9e9b-4a746fc28eba"
+   repos="http://localhost/svn/vtclock"
+   prop-time="2007-03-21T21:01:04.000000Z"
+   revision="29"/>
+<entry
+   committed-rev="22"
+   name="LICENSE"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-01T22:37:10.039940Z"
+   checksum="ebb5c50ab7cab4baeffba14977030c07"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="25"
+   name="Makeconfig"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-02T01:48:28.049752Z"
+   checksum="be14fbb475f896915d82623bb2a5dd7e"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="28"
+   name="vtclock.xml"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-02T02:24:17.159764Z"
+   checksum="32a09254c10d9ea7a13bf01ccdcc7348"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="22"
+   name="AUTHORS"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-01T22:37:10.039940Z"
+   checksum="38d8656c46ff0c125eb229e399c4707f"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="28"
+   name="vtclock.c"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-02T02:24:17.159764Z"
+   checksum="76fe38fdf9eba5edb6df27fa9805904b"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="22"
+   name="INSTALL"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-01T22:37:10.039940Z"
+   checksum="cf8c4d1a5ab88db006c47ae2b51a6b30"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="28"
+   name="configure.in"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-02T02:24:17.159764Z"
+   checksum="0ce81ac214ac048541341aec5c81b68c"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="22"
+   name="ChangeLog"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-01T22:37:10.039940Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="22"
+   name="COPYING"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-01T22:37:10.039940Z"
+   checksum="59530bdf33659b29e73d4adb9f9f6552"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   name="fonts"
+   kind="dir"/>
+<entry
+   committed-rev="28"
+   name="Makefile.am"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-02T02:24:17.159764Z"
+   checksum="f7a62437b31616598c03845ab7423d1d"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="22"
+   name="NEWS"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-01T22:37:10.039940Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+<entry
+   committed-rev="22"
+   name="README"
+   text-time="2007-04-02T02:31:22.000000Z"
+   committed-date="2007-04-01T22:37:10.039940Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-04-02T02:31:22.000000Z"/>
+</wc-entries>

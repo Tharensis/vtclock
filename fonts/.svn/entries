@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15"
+   name=""
+   committed-date="2007-03-22T03:21:31.807205Z"
+   url="http://localhost/svn/vtclock/trunk/fonts"
+   last-author="Jason"
+   kind="dir"
+   uuid="211edd92-4098-4edf-9e9b-4a746fc28eba"
+   repos="http://localhost/svn/vtclock"
+   revision="29"/>
+<entry
+   committed-rev="2"
+   name="block.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="8be601a7dc0913e7a3b1d95b9ff57170"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="bubble.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="a5990844cb5fb2a9f9519f9f41c501b5"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="mini.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="d7a8722ab939e6a729a0ac80ecdff876"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="standard.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="546e97b3fb66fc044e5e3e98cee1d226"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="big.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="18242f61019027522472031f723ab084"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="smscript.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="685391cf779765db2fd1fc76152d0904"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="script.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="3ced552b5649300205dfacbbe2ce45e1"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="mnemonic.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="4d880cf3e178d9a88065f8cf210f7a70"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="banner.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="a48798f3012131423d47748fe975e142"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="term.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="103b6a81c9cf7ab2ce2e07ed8f425cce"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="small.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="691e69e88e1e0ad34c97d2eb887c2782"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="digital.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="287822b824ccbc3c57befab03f57317c"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="15"
+   name="hugehollow.fnt"
+   text-time="2007-03-22T03:22:14.000000Z"
+   committed-date="2007-03-22T03:21:31.807205Z"
+   checksum="951e50452b0db73709951a23bc8c061f"
+   last-author="Jason"
+   kind="file"
+   prop-time="2007-03-22T03:22:14.000000Z"/>
+<entry
+   committed-rev="2"
+   name="lean.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="03ba35875d6b610866b3e0ce8718a069"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="smslant.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="02caaa53c7565cf2276919eadf5c1477"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="slant.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="645fdcdd356a35934e77c7e16d023cc2"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="smshadow.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="fb75c563e56a923be06ed02c81ecc9dd"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="shadow.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-04T23:51:05.539594Z"
+   checksum="0d9a201149070becd057f102907f69f2"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+<entry
+   committed-rev="9"
+   name="huge.fnt"
+   text-time="2007-03-21T21:01:04.000000Z"
+   committed-date="2007-03-12T23:25:42.756668Z"
+   checksum="0338f97fbd568f2b1ace8873550f199b"
+   last-author="jhatton"
+   kind="file"
+   prop-time="2007-03-21T21:01:04.000000Z"/>
+</wc-entries>
